@@ -3,7 +3,7 @@ Patch EasyMotion to motion easily in Chinese. 基于双拼码表让 EasyMotion �
 Inspired by [vim-easymotion-chs](https://github.com/ZSaberLv0/vim-easymotion-chs).
 
 ### 演示视频
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMWkTkWC1EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ZMWkTkWC1EI/0.jpg)](https://youtu.be/ZMWkTkWC1EI)
 
 ### 和 [vim-easymotion-chs](https://github.com/ZSaberLv0/vim-easymotion-chs) 的不同之处:
 - 基于[小鹤双拼](https://www.flypy.com/)编码实现, 而不是全拼实现.
