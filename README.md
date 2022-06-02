@@ -3,7 +3,8 @@ Patch EasyMotion to easy motion in Chinese text. 基于小鹤双拼让 EasyMotio
 Inspired by [vim-easymotion-chs](https://github.com/ZSaberLv0/vim-easymotion-chs).
 
 ### 演示视频
-[![Watch the video](https://img.youtube.com/vi/ZMWkTkWC1EI/0.jpg)](https://youtu.be/ZMWkTkWC1EI)
+
+https://user-images.githubusercontent.com/627330/171558035-183c576a-ab21-4b93-88ed-1c3e912e853b.mp4
 
 ### 动机
 - 很喜欢 EasyMotion 这个插件, 它让跳转变得更加便捷, 但是它只能以字母为跳转目标, 不能识别中文.
